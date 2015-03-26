@@ -6,7 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="TitrePage">Géolocalisation</string>
     <string name="txtMap">Le problème se trouve-t-il ici ?</string>
-    <string name="hello">WebviewActivity!</string>
     
 
 </resources>
